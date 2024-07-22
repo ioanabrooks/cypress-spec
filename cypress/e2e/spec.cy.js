@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Heartbeat test', () => {
   it('passes', () => {
     cy.visit('/')
   })
